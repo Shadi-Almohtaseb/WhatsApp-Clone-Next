@@ -8,6 +8,11 @@ Real-time chat application built using React.js and Next.js, so you can talk to 
  - Firebase cloud and storage
  - CRUD operation
 
+## Demo
+
+whats-app-clone-nextjs-chi.vercel.app
+
+
 ## App Preview
 
 ![](public/assets/wat1.png)
@@ -15,9 +20,4 @@ Real-time chat application built using React.js and Next.js, so you can talk to 
 ![](public/assets/wat3.png)
 ![](public/assets/wat4.png)
 ![](public/assets/wat5.png)
-
-## Demo
-
-whats-app-clone-nextjs-chi.vercel.app
-
 
