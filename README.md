@@ -10,6 +10,12 @@ Real-time chat application built using React.js and Next.js, so you can talk to 
 
 ## App Preview
 
+![](public/assets/wat1.png)
+![](public/assets/wat2.png)
+![](public/assets/wat3.png)
+![](public/assets/wat4.png)
+![](public/assets/wat5.png)
+
 ## Demo
 
 whats-app-clone-nextjs-chi.vercel.app
